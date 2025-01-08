@@ -36,7 +36,7 @@ class _LoginPageState extends State<LoginPage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   const Text(
-                    "Welcome Back!",
+                    "Welcome Back! ",
                     style: TextStyle(
                         color: Color(0xffFFFFFF),
                         fontSize: 36,
